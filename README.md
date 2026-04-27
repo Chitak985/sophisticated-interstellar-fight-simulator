@@ -1,4 +1,4 @@
-# Simple Interstellar Fight Simulator
+# Sophisticated Interstellar Fight Simulator
 
 This game is about multiplayer space combat in a galaxy. Mine resources, defend your ships, and attack other players!
 
